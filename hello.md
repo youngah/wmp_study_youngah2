@@ -1,9 +1,9 @@
 자기소개
 ---------------------------------------
-이름 : 
+이름 : 김종환
 
-팀 : 
+팀 : 무소속
 
-GitHub ID : 
+GitHub ID : snut97 
 
-E-mail : 
+E-mail : snut97@wemakeprice.com
